@@ -4,6 +4,8 @@ This repository contains examples of my practical QA work focused on API testing
 
 It is designed as a junior QA portfolio project to demonstrate my understanding of core testing approaches and my ability to document, validate, and analyze application behavior.
 
+In addition to the examples stored in this repository, I also use TestCaseLab for structured test case management and Jira for bug tracking and task workflow.
+
 ---
 
 ## Project Goal
@@ -34,8 +36,7 @@ The goal of this repository is to show my practical QA approach through examples
 
 ## Repository Structure
 
-```text
-qa-api-practice/
+qa-api/
 │
 ├── README.md
 ├── postman/
@@ -58,13 +59,12 @@ qa-api-practice/
 └── examples/
     └── e2e-scenarios.md
 
-
-⸻
-
 Tools Used
 	•	Postman
 	•	Swagger
 	•	Chrome DevTools
+	•	TestCaseLab
+	•	Jira
 	•	SQL (PostgreSQL basics)
 	•	Git / GitHub
 
@@ -75,11 +75,21 @@ Skills Demonstrated
 	•	Functional testing
 	•	Validation testing
 	•	Negative testing
-	•	Test case writing
+	•	Test case design and management
 	•	Bug reporting
 	•	Basic SQL validation
-	•	E2E scenario design
+	•	End-to-end scenario design
 	•	QA documentation
+	•	Working with defect tracking tools
+
+⸻
+
+Additional Tools and Workflow
+	•	TestCaseLab for creating and managing structured test cases
+	•	Jira for bug tracking and task management
+	•	Postman for API testing and request validation
+	•	SQL for database checks
+	•	GitHub for storing and presenting QA practice examples
 
 ⸻
 
@@ -137,3 +147,10 @@ It reflects how I approach testing:
 	•	verify data in the database
 	•	think about user flows end-to-end
 
+⸻
+
+Notes
+
+This repository is a demonstration project created for learning, practice, and portfolio purposes.
+
+It represents my current QA/API testing skills and my approach to documentation and validation.
